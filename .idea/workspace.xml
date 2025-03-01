@@ -56,7 +56,6 @@
     &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;creating-files&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/xampp/php/php.ini&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -84,7 +83,7 @@
       <updated>1740832605338</updated>
       <workItem from="1740832606418" duration="87000" />
       <workItem from="1740832706698" duration="8828000" />
-      <workItem from="1740870729976" duration="309000" />
+      <workItem from="1740870729976" duration="1826000" />
     </task>
     <servers />
   </component>
