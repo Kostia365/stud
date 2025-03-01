@@ -1,2 +1,0 @@
-# stud
- i just learning
