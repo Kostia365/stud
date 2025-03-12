@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f700ae34-a472-4030-b8fd-9c031fe2614f" name="Changes" comment="fixed parts and script">
-      <change beforePath="$PROJECT_DIR$/kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/thankyou.php" afterDir="false" />
+    <list default="true" id="f700ae34-a472-4030-b8fd-9c031fe2614f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,16 +19,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,9 +38,6 @@
   }
 }</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2" />
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -66,7 +56,6 @@
     &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#6 on main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/xampp/php/php.ini&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -76,12 +65,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\stud\stud\img\portfolio" />
-      <recent name="C:\xampp\htdocs\stud\stud\img\banneres" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,39 +84,10 @@
       <workItem from="1740832606418" duration="87000" />
       <workItem from="1740832706698" duration="8828000" />
       <workItem from="1740870729976" duration="1826000" />
-      <workItem from="1740872719603" duration="379000" />
-      <workItem from="1741362921267" duration="1663000" />
-      <workItem from="1741817669204" duration="1594000" />
     </task>
-    <task id="LOCAL-00001" summary="made parts and script">
-      <option name="closed" value="true" />
-      <created>1741818892517</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1741818892517</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge branch 'main' of https://github.com/Kostia365/stud" />
-    <MESSAGE value="made parts and script" />
-    <MESSAGE value="fixed parts and script" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed parts and script" />
   </component>
 </project>
