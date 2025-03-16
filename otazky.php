@@ -13,5 +13,3 @@ $odpovede = array(
     "Mojím cieľom je prejsť tento predmet.",
     "Odpoveď bude vždy kačica.",
 );
-
-?>
