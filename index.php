@@ -14,42 +14,15 @@
 ?>
     
     <main>
-      <section class="slides-container">
-        <div class="slide fade">
-            <img src="img/banneres/banner1.jpg" alt="">
-          <div class="slide-text"> Prvý nadpis</div>
-        </div>
-        
-        <div class="slide fade">
-          <img src="img/banneres/banner2.jpg" alt="">
-          <div class="slide-text">
-            Druhý nadpis
-          </div>
-        </div>
-        
-        <div class="slide fade">
-          <img src="img/banneres/banner3.jpg" alt="">
-          <div class="slide-text">
-            Tretí nadpis
-          </div>
-        </div>
-        
-        <a id="prev" class="prev">❮</a>
-        <a id="next" class="next">❯</a>
-        
-      </section>
+        <?php
+            include_once 'functions.php';
+            generateSlides('img/banneres');
+        ?>
       <section class="container">
         <div class="row">
           <div class="col-100 text-center">
             <?php
-            $hour = date('H');
-            if ($hour < 12) {
-                echo "<h3>Dobré ráno</h3>";
-            } elseif ($hour < 18) {
-            echo "<h3>Dobrý deň</h3>";
-            } else {
-            echo "<h3>Dobrý večer</h3>";
-            }
+                pridajPozdrav();
             ?>
           </div>
         </div>

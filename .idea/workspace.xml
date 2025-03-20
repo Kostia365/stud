@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f700ae34-a472-4030-b8fd-9c031fe2614f" name="Changes" comment="fixed parts and script">
-      <change beforePath="$PROJECT_DIR$/kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/thankyou.php" afterDir="false" />
+    <list default="true" id="f700ae34-a472-4030-b8fd-9c031fe2614f" name="Changes" comment="made parts and script">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/banner.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/banner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/datas.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/datas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banneres/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parts/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/parts/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/parts/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,28 +62,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.php.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.otazky.php.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.qna.html.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#6 on main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/php/php.ini&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.functions.php.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.index.php.executor": "Run",
+    "JavaScript Debug.otazky.php.executor": "Run",
+    "JavaScript Debug.portfolio.php.executor": "Run",
+    "JavaScript Debug.qna.html.executor": "Run",
+    "PHP Script.index.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/zadanie2",
+    "last_opened_file_path": "C:/xampp/php/php.ini",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\stud\stud\img" />
       <recent name="C:\xampp\htdocs\stud\stud\img\portfolio" />
       <recent name="C:\xampp\htdocs\stud\stud\img\banneres" />
     </key>
@@ -85,12 +94,15 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
-        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.26053.13" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.26053.13" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="PHP" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f700ae34-a472-4030-b8fd-9c031fe2614f" name="Changes" comment="" />
@@ -104,6 +116,7 @@
       <workItem from="1740872719603" duration="379000" />
       <workItem from="1741362921267" duration="1663000" />
       <workItem from="1741817669204" duration="1594000" />
+      <workItem from="1742480432565" duration="943000" />
     </task>
     <task id="LOCAL-00001" summary="made parts and script">
       <option name="closed" value="true" />
