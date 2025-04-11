@@ -35,6 +35,7 @@ require_once (__ROOT__.'/db/config.php');
 
 class QnA
 
+
 {
     private $conn;
 
@@ -42,7 +43,31 @@ class QnA
     {
         $this->connect();
     }
-
+    public function getQnA() {
+        // SQL SELECT príkaz
+        $sql = "SELECT * FROM qna";
+        $statement = $this->conn->prepare($sql);
+        $statement->execute();
+        // Získanie dát
+        $data = $statement->fetchAll(PDO::FETCH_ASSOC);
+        // Zobrazenie otázok a odpovedí
+        if ($data) {
+            echo '<section class="container">';
+            foreach ($data as $row) {
+                echo '<div class="accordion">
+                        <div class="question">' .
+                    $row["otazka"] . '
+                         </div>
+                        <div class="answer">' .
+                    $row["odpoved"] . '
+                        </div>
+                </div>';
+            }
+            echo '</section>';
+        } else {
+            echo "Neboli nájdené žiadne otázky a odpovede.";
+        }
+    }
     private function connect()
     {
         $config = DATABASE;

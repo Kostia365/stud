@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f700ae34-a472-4030-b8fd-9c031fe2614f" name="Changes" comment="started  formular">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/Kontakt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/QnA.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/config.php" afterDir="false" />
+    <list default="true" id="f700ae34-a472-4030-b8fd-9c031fe2614f" name="Changes" comment="commit with bugs">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/datas.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/datas.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/spracovanieFormulara.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/spracovanieFormulara.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qna.php" beforeDir="false" afterPath="$PROJECT_DIR$/qna.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +74,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "feature/database",
-    "last_opened_file_path": "C:/xampp/php/php.ini",
+    "last_opened_file_path": "C:/xampp/htdocs/test_project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,6 +124,9 @@
       <workItem from="1742547479707" duration="1341000" />
       <workItem from="1742677126458" duration="7472000" />
       <workItem from="1742726647063" duration="3548000" />
+      <workItem from="1744383040151" duration="144000" />
+      <workItem from="1744384349934" duration="900000" />
+      <workItem from="1744386881296" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="made parts and script">
       <option name="closed" value="true" />
