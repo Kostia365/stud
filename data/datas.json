@@ -3,5 +3,17 @@
     "banner1.jpg": "Prvý nadpis",
     "banner2.jpg": "Druhý nadpis",
     "banner3.jpg": "Tretí nadpis"
+},
+  "otazky":{
+    "otazka1": "otazka1",
+    "otazka2": "otazka2",
+    "otazka3": "otazka3",
+    "otazka4": "otazka4"
+},
+  "odpovede": {
+    "odpoved1": "odpoved1",
+    "odpoved2": "odpoved2",
+    "odpoved3": "odpoved3",
+    "odpoved4": "odpoved4"
 }
 }

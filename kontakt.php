@@ -39,10 +39,10 @@
         </div>
         <div class="col-50 text-right">
           <h3>Napíšte nám</h3>
-            <form id="contact" method="post" action="db/spracovanieFormulara.php">
-                <input type="text" placeholder="Vaše meno" name="name" id ="meno"  required><br>
+            <form id="contact" method="GET" action="db/spracovanieFormulara.php">
+                <input type="text" placeholder="Vaše meno" name="name" id ="name"  required><br>
                 <input type="email" placeholder="Váš email" name="email" id="email" required><br>
-                <textarea placeholder="Vaša správa" name="work" id="sprava"></textarea><br>
+                <textarea placeholder="Vaša správa" name="work" id="work"></textarea><br>
                 <input type="checkbox" name="" id="" required>
                 <label for=""> Súhlasím so spracovaním osobných údajov.</label><br>
                 <input type="submit" value="Odoslať">
