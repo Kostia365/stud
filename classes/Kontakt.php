@@ -27,7 +27,26 @@ class Kontakt
             die("Chyba pripojenia: " . $e->getMessage());
         }
     }
+    public function ulozitSpravu($meno, $email, $sprava) {
+        $sql = "INSERT INTO kontakt_formular (meno, email, sprava) 
+    VALUE ('" . $meno . "', '" . $email . "', '" . $sprava . "')";
+        $statement = $this->conn->prepare($sql);
+        try {
+            $insert = $statement->execute();
+            header("Location: http://localhost/cvicnasablona/thankyou.php");
+            http_response_code(200);
+            return $insert;
+        } catch (\Exception $exception) {
+            return http_response_code(404);
+        }
+    }
+    public function __destruct() {
+        $this->conn = null;
+    }
+
+
 }
+
 
 
 namespace otazkyodpovede;

@@ -2,9 +2,9 @@
 $conn = null;
 require_once('../classes/Kontakt.php');
 use formular\Kontakt;
-$meno = $_POST['meno'];
+$meno = $_POST['name'];
 $email = $_POST['email'];
-$sprava = $_POST['sprava'];
+$sprava = $_POST['work'];
 
 // Overenie údajov
 if (empty($meno) || empty($email) || empty($sprava)) {

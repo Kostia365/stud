@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 // Pole otázok
 $otazky = array(
     "Aké sú vaše skúsenosti s PHP?",
@@ -12,4 +12,4 @@ $odpovede = array(
     "Môj obľúbený programovací jazyk bude určite PHP. ",
     "Mojím cieľom je prejsť tento predmet.",
     "Odpoveď bude vždy kačica.",
-);
+); -->

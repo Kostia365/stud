@@ -39,7 +39,7 @@
         </div>
         <div class="col-50 text-right">
           <h3>Napíšte nám</h3>
-            <form id="contact" method="GET" action="db/spracovanieFormulara.php">
+            <form id="contact" method="POST" action="db/spracovanieFormulara.php">
                 <input type="text" placeholder="Vaše meno" name="name" id ="name"  required><br>
                 <input type="email" placeholder="Váš email" name="email" id="email" required><br>
                 <textarea placeholder="Vaša správa" name="work" id="work"></textarea><br>
